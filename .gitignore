@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+*.mp3
+*.m4a
+*.wav
+*.mp4
+*.webm
+transcripts/
+recordings/
